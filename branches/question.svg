@@ -1,0 +1,40 @@
+<svg version="1.1"
+    baseProfile="full"
+    width="400" height="500"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="100%" height="100%" fill="#000000"/>
+    <text x="200" y="50" font-size="22" text-anchor="middle" fill="white">How many yellow squares?</text>
+
+    <rect x="40" y = "100" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="105" y = "100" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="170" y = "100" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="235" y = "100" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="300" y = "100" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="40" y = "165" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="105" y = "165" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="170" y = "165" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="235" y = "165" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="300" y = "165" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="40" y = "230" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="105" y = "230" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="170" y = "230" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="235" y = "230" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="300" y = "230" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="40" y = "295" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="105" y = "295" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="170" y = "295" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="235" y = "295" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="300" y = "295" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="40" y = "360" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="105" y = "360" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="170" y = "360" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="235" y = "360" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="300" y = "360" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="40" y = "425" width="60" height="60" rx="15" fill="#ff2400"/>
+    <rect x="105" y = "425" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="170" y = "425" width="60" height="60" rx="15" fill="#FFFFFF"/>
+    <rect x="235" y = "425" width="60" height="60" rx="15" fill="#ffcc00"/>
+    <rect x="300" y = "425" width="60" height="60" rx="15" fill="#FFFFFF"/>
+
+    </svg>

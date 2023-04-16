@@ -1,0 +1,30 @@
+<svg version="1.1"
+    baseProfile="full"
+    width="400" height="500"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="100%" height="100%" fill="#321414"/>
+    <text x="200" y="50" font-size="22" text-anchor="middle" fill="white">How many COLOR_NAME squares?</text>
+
+    <rect x="50" y = "111" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="127" y = "111" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="204" y = "111" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="281" y = "111" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="50" y = "188" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="127" y = "188" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="204" y = "188" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="281" y = "188" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="50" y = "265" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="127" y = "265" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="204" y = "265" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="281" y = "265" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="50" y = "342" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="127" y = "342" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="204" y = "342" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="281" y = "342" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="50" y = "419" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="127" y = "419" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="204" y = "419" width="69" height="69" rx="15" fill="#123456"/>
+    <rect x="281" y = "419" width="69" height="69" rx="15" fill="#123456"/>
+
+    </svg>
